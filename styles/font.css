@@ -1,0 +1,27 @@
+@font-face{
+	font-family:udemyicons;
+	src:url(UdemyIcons.woff2) format('woff2'),
+	url(UdemyIcons.ttf) format('truetype'),
+	url(UdemyIcons.woff),
+	url(UdemyIcons.svg#UdemyIcons) format('svg');font-weight:400;font-style:normal;font-display:block
+}
+
+.udi-explore:before {
+    content: "\E90F";
+}
+
+.udi-search:before {
+    content: "\F002";
+}
+
+.udi-cart-line:before {
+    content: "\E91E";
+}
+
+.udi-menu:before {
+    content: "\E73B";
+}
+
+.udi-search:before {
+    content: "\F002";
+}
